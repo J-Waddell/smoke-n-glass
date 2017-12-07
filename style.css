@@ -1,4 +1,4 @@
-<style>
+
     .jumbotron {
                 display: flex;
                 justify-content: center;
@@ -86,4 +86,3 @@ hr.divider {
          box-shadow: 0 0 5px rgba(0,0,0,.8);
          min-width: 125px;
         }
-    </style>
