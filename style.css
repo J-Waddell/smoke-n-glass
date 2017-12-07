@@ -1,9 +1,8 @@
-
-    .jumbotron {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                border-radius: 0;
+.jumbotron {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 0;
         }
         .img-circle{
          width: 200px;
@@ -86,3 +85,7 @@ hr.divider {
          box-shadow: 0 0 5px rgba(0,0,0,.8);
          min-width: 125px;
         }
+/*image styling*/
+.carousel {
+/*height: 100px;*/
+}
