@@ -1,0 +1,23 @@
+{
+  "name": "smoke-n-glass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Waddell/smoke-n-glass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-Waddell/smoke-n-glass/issues"
+  },
+  "homepage": "https://github.com/J-Waddell/smoke-n-glass#readme"
+}
