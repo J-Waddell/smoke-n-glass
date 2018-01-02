@@ -6,9 +6,14 @@ var modal_content,
 modal_screen;
 
 // Start Working ASAP.
-$(document).ready(function() {
-	av_legality_check();
-});
+// $(document).ready(function() {
+// 	av_legality_check();
+// });
+
+// Delayed Start
+setTimeout(function(){
+  av_legality_check()
+},1500); 
 
 
 av_legality_check = function() {
