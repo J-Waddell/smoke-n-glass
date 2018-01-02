@@ -87,15 +87,21 @@
 }
 
 #modal_content nav .av_go {
-	background-color: #7fbf4d;
+	background-color: grey;
 }
 
 #modal_content nav .av_no {
-	background-color: #BE4C4C;
+	background-color: grey;
 }
 
-#modal_content nav .av_btn:hover {
-	background-color: #1e0924;
+#modal_content nav .av_go:hover {
+	background-color: #7fbf4d;
+	/*#7fbf4d*/
+	/*#BE4C4C*/
+}
+
+#modal_content nav .av_no:hover {
+	background-color: #BE4C4C
 }
 
 #modal_content #modal_regret_wrapper nav a.av_btn {
