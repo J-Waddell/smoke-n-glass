@@ -81,7 +81,7 @@
 	text-decoration: none;
 	padding:1em;
 	color: #fff;
-	font:normal .7em/1em 'AmericanTypwrterITCW01- 731031';
+	font:normal .7em/1em 'Gill Sans W01 Medium', Helvetica,arial,sans-serif;
 	text-transform: none;
 	letter-spacing: 0;
 }
@@ -140,7 +140,7 @@ div#modal_content_wrapper {}
 	#modal_content nav {width: 396px;}
 
 	#modal_content nav a.av_btn {
-		padding:1em 2.5em;
+		/*padding:1em 2.5em;*/
 		margin:1.6em auto 0;
 		font-size: 1em;
 	}
